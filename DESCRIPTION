@@ -1,0 +1,18 @@
+Package: montyhallgame
+Title: Monty Hall Problem Game
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Herb",
+           family = "Mueller",
+           role = c("aut", "cre"),
+           email = "herbertm533@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This pacakge allows you to simulate one or multiple Monty Hall game simulations.
+Depends: 
+   dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
