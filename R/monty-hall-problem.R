@@ -315,6 +315,7 @@ play_game <- function( )
 play_n_games <- function( n=100 )
 {
 
+  library( dplyr )
   results.list <- list()   # collector
   loop.count <- 1
 
