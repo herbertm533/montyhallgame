@@ -8,8 +8,6 @@ Authors@R:
            email = "herbertm533@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This pacakge allows you to simulate one or multiple Monty Hall game simulations.
-Depends: 
-   dplyr
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
